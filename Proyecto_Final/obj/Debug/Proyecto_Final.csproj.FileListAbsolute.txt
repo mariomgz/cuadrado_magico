@@ -1,0 +1,7 @@
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\Beto\source\repos\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
